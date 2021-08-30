@@ -4,7 +4,7 @@ class Sshpass < Formula
   desc 'The sshpass utility helps administrators more easily manage SSH connections in scripts.'
   url 'http://sourceforge.net/projects/sshpass/files/sshpass/1.09/sshpass-1.09.tar.gz'
   homepage 'http://sourceforge.net/projects/sshpass'
-  md5 '191a9128a74d81ae36744d5deb50d164'
+  sha256 'cbc0e1300c7f1cacf9c850e5b42773cb53211d9d'
   licence 'MIT'
 
   def install
